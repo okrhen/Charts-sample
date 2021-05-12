@@ -14,7 +14,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "apollo-boost": "^0.4.7",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-zoom": "^0.7.5",
     "date-fns": "^2.8.1",
     "graphql": "^14.5.8",
